@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <string name="app_name">dldemo-plugin-main</string>
-    <string name="bReturnback">打开demo页面</string>
-    <string name="action_settings">Settings</string>
-    <string name="etDisplay">edit 内容展示</string>
-
-</resources>
